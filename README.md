@@ -40,9 +40,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=ESP32-Virtualpet&theme=radical)](https://github.com/taylordanger/ESP32-Virtualpet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=GxEPD-Multiple-Epaper-Screen-Example&theme=radical)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=terminull_b8sed&theme=radical)](https://github.com/taylordanger/terminull_b8sed)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=OpenWRT-proxmox&theme=radical)](https://github.com/taylordanger/OpenWRT-proxmox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=pixgen&theme=radical)](https://github.com/taylordanger/pixgen)
 
 ## 📫 Connect with Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/taylorsheppard/)
+- Hackaday: [My Hackaday Page](https://hackaday.io/amandabynes)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.

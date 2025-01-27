@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=repo-name&theme=radical)](https://github.com/taylordanger/repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=repo-name&theme=radical)](https://github.com/taylordanger/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=ESP32-Virtualpet&theme=radical)](https://github.com/taylordanger/ESP32-Virtualpet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylordanger&repo=GxEPD-Multiple-Epaper-Screen-Example&theme=radical)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taylorsheppard)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taylorsheppard/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.

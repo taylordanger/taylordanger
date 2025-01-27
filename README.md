@@ -43,6 +43,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taylorsheppard/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/taylorsheppard/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.

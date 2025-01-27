@@ -11,7 +11,15 @@ Turning coffee into code and ideas into reality
 🚀 Tech Arsenal
 🌈 Stats Journey
 <div align="center">
-<img alt="Taylor's GitHub Metrics" src="https://metrics.lecoq.io/taylordanger?template=classic&amp;base.header=0&amp;base.activity=0&amp;base.community=0&amp;base.repositories=0&amp;base.metadata=0&amp;isocalendar=1&amp;languages=1&amp;stars=1&amp;isocalendar.duration=half-year&amp;languages.limit=8&amp;languages.threshold=0%&amp;languages.colors=github&amp;languages.sections=most-used&amp;stars.limit=4&amp;config.timezone=America/New_York">
+
+## 🌈 Stats Journey
+
+<div align="center">
+
+![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taylordanger&show_icons=true&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylordanger&layout=compact&theme=synthwave)
+
+</div>
 </div>
 🏆 Achievement Gallery
 🎮 Featured Side Quests

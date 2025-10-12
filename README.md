@@ -1,4 +1,4 @@
-# Taylor Danger
+# Taylor  Sheppard
 Embedded Systems Engineer · ESP32 · Modern C++ · e‑paper UIs
 
 [![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)
@@ -7,57 +7,64 @@ Embedded Systems Engineer · ESP32 · Modern C++ · e‑paper UIs
 
 A pragmatic engineer crafting robust firmware and thoughtful device UIs. I design testable embedded systems and companion tooling that make hardware feel polished and dependable.
 
+|__ _| | | | | | _ \
+| | ___ _| | ___ _| | | |) | ___ __ _ _ __ ___
+| |/ _ / __| __/ _ /  | |  _ < / _ \/ _ | '__/ _
+| | _/_ \ || _/ (| | | |) | / (_| | | | /
+|_|_||/____|_,| |/ _|_,|_| ___|
 ---
 
-## What I build
-- Reliable firmware for constrained devices (ESP32, FreeRTOS).
-- Intuitive UIs for e‑paper and low-power displays.
-- Tooling and companion apps to streamline development and testing.
 
-## Quick snapshot
-- Languages: C, C++, Python, TypeScript, Rust (learning)  
-- Embedded: ESP32, Arduino framework, FreeRTOS  
-- Libraries & tooling: GxEPD, Adafruit GFX, RTClib, CMake, Git, VS Code
+> I build firmware and tooling for constrained devices. I focus on clean architecture, testability, and user-friendly UIs for tiny screens.
+
+---
+
+## Quick profile
+| Role | Location |
+|---|---|
+| Embedded Systems Engineer | Remote / Hybrid (Open to collaborations) |
+
+## Tech & Proficiency
+| Area | Skill |
+|---|---:|
+| Languages | C, C++, Python, TypeScript, Rust (learning) |
+| Embedded | ESP32 · FreeRTOS · Arduino framework |
+| Displays & UI | GxEPD · Adafruit GFX · e‑paper UX patterns |
+| Tools | Git · VS Code · CMake · CI/CD |
+
+Proficiency (visual bars):  
+- C/C++ ▉▉▉▉▉▉▉▉▉▉  
+- Embedded systems ▉▉▉▉▉▉▉▉▉◻  
+- Python / Tooling ▉▉▉▉▉▉▉▉◻◻  
+- Rust (learning) ▉▉▉◻◻◻◻◻◻◻
+
+---
 
 ## Featured projects
-### ESP32-Virtualpet
-A lightweight virtual pet platform for ESP32 — persistent state, responsive drawing, and playful UX patterns.  
-https://github.com/taylordanger/ESP32-Virtualpet
-
-### GxEPD-Multiple-Epaper-Screen-Example
-Patterns for managing multiple e‑paper screens and transitions across constrained displays. Useful reference for multi-screen embedded UIs.  
-https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example
-
-### Open Source Contributions
-A collection of PRs, bug fixes, and improvements across embedded and UI libraries. My focus is pragmatic fixes that make projects easier to use and maintain.  
-https://github.com/pulls?q=is%3Apr+author%3Ataylordanger+is%3Aclosed
+| Project | What & Why |
+|---|---|
+| [ESP32-Virtualpet](https://github.com/taylordanger/ESP32-Virtualpet) | Virtual pet platform on ESP32 — real-time graphics, persistent state, playful UX patterns. Great for UI + RTOS patterns. |
+| [GxEPD-Multiple-Epaper-Screen-Example](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example) | Patterns for managing multiple e‑paper screens and transitions on constrained devices. Useful reference for multi-screen firmware. |
+| Open source contributions | Practical PRs and fixes that increase library usability for e‑paper and embedded toolchains. |
 
 ---
 
-## How I approach problems
-- Start with strong abstractions so device logic is testable on desktop.
-- Prefer small, well-scoped APIs that are easy to mock and iterate.
-- Invest in reproducible tooling and CI for firmware builds and asset generation.
-
-## Speaking & mentorship
-I run local workshops and mentor early-career engineers on embedded systems and practical testing strategies. I enjoy translating low-level constraints into elegant UX.
-
-## Want to collaborate?
-- LinkedIn: https://linkedin.com/in/taylordanger  
-- GitHub: https://github.com/taylordanger  
-- Email: lauren.taylor.sheppard@gmail.com
+## How I work (short)
+- Design small, testable abstractions so UI logic can run efficiently on desktop and embedded targets.
+- Prefer incremental, test-first changes and reproducible tooling for builds and assets.
+- Value pragmatic code: readable, reviewable, and easy to maintain.
 
 ---
 
-## Small, optional extras (suggestions)
-- Add the GitHub activity and top-langs widgets if you want dynamic profile cards.  
-  Example:
-  - `https://github-readme-stats.vercel.app/api?username=taylordanger&show_icons=true&theme=tokyonight`
-  - `https://github-readme-stats.vercel.app/api/top-langs/?username=taylordanger&layout=compact&theme=tokyonight`
-- Consider a compact header image (local asset) or a single portrait to make the profile friendlier.
-- Replace external badge URLs with local images if you prefer privacy / no external calls.
-
----
+## Dev terminal: device simulator boot (flavor)
+```bash
+$ ./simulator --display=212x104 --profile=eink
+[  OK  ] init: display driver GxEPD2
+[  OK  ] load: assets (18 images)
+[ INFO ] UI: home screen ready
+[ INFO ] input: map keys -> {A:left, B:select, C:right}
+[ READY] Simulation listening on http://127.0.0.1:8080
+> press [A] [B] [C] to simulate button events
 
 Short bio (one line)
 > Embedded systems engineer focused on ESP32 and e‑paper UIs — building reliable, testable firmware with modern C++.

@@ -1,3 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#002200"/>
+      <stop offset="1" stop-color="#003300"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- subtle terminal grid lines -->
+  <g fill="none" stroke="#052205" stroke-width="1">
+    <pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 24 H1200" stroke="#052205" stroke-opacity="0.15"/>
+    </pattern>
+    <rect width="100%" height="100%" fill="url(#p)" />
+  </g>
+
+  <!-- header text -->
+  <g transform="translate(48,48)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, 'Courier New', monospace" font-weight="700" text-anchor="start">
+    <text x="0" y="42" font-size="44" fill="#00ff66" filter="url(#glow)" letter-spacing="1">taylordanger</text>
+    <text x="0" y="90" font-size="18" fill="#9cffb2" opacity="0.95">Embedded Systems · ESP32 · Modern C++ · e‑paper UIs</text>
+  </g>
+
+  <!-- faux cursor -->
+  <rect x="360" y="28" width="10" height="28" fill="#00ff66" opacity="0.95">
+    <animate attributeName="opacity" values="0.95;0.15;0.95" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- small status dots -->
+  <g transform="translate(1040,36)" fill="#00ff66" opacity="0.9">
+    <circle cx="0" cy="0" r="4"/>
+    <circle cx="16" cy="0" r="4" fill="#00aa44" opacity="0.7"/>
+    <circle cx="32" cy="0" r="4" fill="#007733" opacity="0.5"/>
+  </g>
+</svg>
 [![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
 [![Email](https://img.shields.io/badge/Email-lauren.taylor.sheppard@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.taylor.sheppard@gmail.com)

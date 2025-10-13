@@ -11,13 +11,12 @@
 
 <div align="center">
 
-<<<<<<< HEAD
 ```bash
 $ whoami
 taylordanger@embedded:~$ Crafting elegant firmware for the tiniest screens
 =======
 ![terminal header](images/terminal-header.svg)
->>>>>>> 32d3b2db4b84a84a68116c4515124f5a2607b13b
+
 
 $ ls -la ~/skills/
 total 42

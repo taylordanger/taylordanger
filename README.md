@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taylor Danger — Embedded Systems Engineer
 
 [![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)  
@@ -240,4 +241,6 @@ git clone https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example
 - GitHub: https://github.com/taylordanger  
 - Email: lauren.taylor.sheppard@gmail.com
 
+=======
+>>>>>>> 311ac27748a902bfe4e519e97469b6c4cb8ae2ab
 

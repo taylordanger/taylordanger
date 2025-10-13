@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160">
+  <rect width="100%" height="100%" fill="#0b0b0b"/>
+  <g font-family="Monaco, Menlo, monospace" font-size="14" fill="#9cffb2">
+    <text x="20" y="40">$ ./tools/sim --display=212x104 --profile=eink</text>
+    <text x="20" y="64">[ OK ] init: display driver GxEPD2</text>
+    <text x="20" y="88">[ INFO ] UI: home screen ready</text>
+    <text x="20" y="112">[ READY] Simulation listening on http://127.0.0.1:8080</text>
+  </g>
+</svg>

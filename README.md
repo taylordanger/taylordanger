@@ -11,9 +11,13 @@
 
 <div align="center">
 
+<<<<<<< HEAD
 ```bash
 $ whoami
 taylordanger@embedded:~$ Crafting elegant firmware for the tiniest screens
+=======
+![terminal header](images/terminal-header.svg)
+>>>>>>> 32d3b2db4b84a84a68116c4515124f5a2607b13b
 
 $ ls -la ~/skills/
 total 42
@@ -27,7 +31,7 @@ $ ./connect --social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
 [![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lauren.taylor.sheppard@gmail.com)
 
-![terminal header](images/terminal-header.svg)
+
 
 </div>
 

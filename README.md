@@ -1,14 +1,13 @@
 <div align="center">
 
-# 🚀 Taylor Danger
-## Embedded Systems Engineer | Hardware Hacker | UI Innovator
+![terminal header](images/terminal-header.svg)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/taylordanger)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.taylor.sheppard@gmail.com)
 
-![terminal header](images/terminal-header.svg)
+
 
 ### 💫 "Crafting elegant firmware for the tiniest screens"
 

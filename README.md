@@ -1,52 +1,132 @@
-# Taylor Danger — Embedded Systems Engineer
+<div align="center">
 
-[![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)  
+# 🚀 Taylor Danger
+## Embedded Systems Engineer | Hardware Hacker | UI Innovator
+
+[![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/taylordanger)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.taylor.sheppard@gmail.com)
 
 ![terminal header](images/terminal-header.svg)
 
-I design firmware and small-screen device UIs that feel polished and reliable. I focus on testable architecture, reproducible tooling, and UX that respects constrained hardware.
+### 💫 "Crafting elegant firmware for the tiniest screens"
 
-• Embedded systems (ESP32) • Modern C++ • e‑paper displays • Testable UI tooling
+</div>
 
----
+<div align="center">
 
-## Quick facts
+**🎯 Turning hardware constraints into design opportunities**
 
-- **Role:** Embedded Systems Engineer
-- **Location:** Remote / Hybrid
-- **Availability:** Open to collaboration & freelance
+*I specialize in creating firmware and micro-UIs that deliver desktop-quality experiences on embedded devices. My work bridges the gap between hardware limitations and user expectations.*
 
----
+**⚡ Core Expertise:** `ESP32` `Modern C++` `e-Paper Displays` `Real-time Systems` `Hardware-UI Integration`
 
-## Skills & tools
-
-- **Languages:** C, C++ (modern), Python, TypeScript
-- **Embedded:** ESP32, FreeRTOS, Arduino framework
-- **Displays & UI:** GxEPD, Adafruit GFX, e‑paper UX patterns
-- **Tooling:** CMake, Git, CI, automated asset generation
-
-Proficiency: C/C++ · Embedded systems · Python/tooling · Rust (learning)
+</div>
 
 ---
 
-## Selected projects
+<div align="center">
 
-- **ESP32-Virtualpet** — Virtual pet on ESP32: persistent state, efficient render loops, playful UX patterns.  
-  [ESP32-Virtualpet](https://github.com/taylordanger/ESP32-Virtualpet)
+## 📊 GitHub Stats
 
-- **GxEPD-Multiple-Epaper-Screen-Example** — Multi-screen patterns and transitions for e‑paper devices.  
-  [GxEPD-Multiple-Epaper-Screen-Example](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylordanger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylordanger&layout=compact&langs_count=8&theme=tokyonight"/>
 
-- **Open-source contributions** — Small, high-impact PRs to improve e‑paper and embedded tooling reliability.
+</div>
 
----
+## 🛠️ Technology Stack
 
-## How I work
+<div align="center">
 
-- Build small, testable abstractions so UI logic can run on desktop and on-device.
-- Prefer incremental changes, reproducible builds, and automated asset generation.
-- Treat UX for constrained devices as a first-class engineering problem.
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Embedded & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-16c60c?style=for-the-badge&logo=freertos&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+### 📋 Quick Info
+
+| 🎯 Focus | 📍 Location | 💼 Status |
+|----------|-------------|----------|
+| Embedded UI/UX | Remote/Hybrid | Open for collaboration |
+
+**Skill Levels:**
+```
+C/C++ Embedded     ████████████████████ 100%
+Hardware Integration ██████████████████ 90%
+UI/UX for Embedded   ████████████████ 80%
+Python Tooling      ██████████████ 70%
+Rust (Learning)     ████████ 40%
+```
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐾 ESP32 Virtual Pet
+**Smart Tamagotchi-style companion**
+- Real-time pet simulation with persistent memory
+- Optimized rendering pipeline for smooth animations
+- Low-power state management
+- Interactive touch/button controls
+
+[![Repo](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/taylordanger/ESP32-Virtualpet)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=play)](https://github.com/taylordanger/ESP32-Virtualpet)
+
+</td>
+<td width="50%">
+
+### 📺 Multi e-Paper Manager
+**Advanced display orchestration system**
+- Seamless transitions between multiple e-paper screens
+- Memory-efficient graphics pipeline
+- Dynamic content scheduling
+- Hardware abstraction layer
+
+[![Repo](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+[![Stars](https://img.shields.io/github/stars/taylordanger/GxEPD-Multiple-Epaper-Screen-Example?style=for-the-badge)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+
+</td>
+</tr>
+</table>
+
+### 🌟 Open Source Impact
+**Contributing to the embedded ecosystem** • Bug fixes & optimizations • Documentation improvements • Community support
+
+</div>
+
+## 💭 Philosophy & Approach
+
+<div align="center">
+
+| 🎨 **Design Principle** | 🔧 **Implementation** |
+|--------------------------|------------------------|
+| **Desktop-Quality UX** | UI logic runs identically on desktop simulators and target hardware |
+| **Zero-Compromise Testing** | Every component testable in isolation with automated CI/CD |
+| **Hardware-Aware Design** | Constraints become features, not limitations |
+| **Incremental Perfection** | Small, atomic changes with reproducible builds |
+
+*"The best embedded UI is one that users forget is running on a microcontroller."*
+
+</div>
 
 ---
 
@@ -80,19 +160,6 @@ asciinema2gif demo.cast images/demo.gif
 
 3. Commit `images/demo.gif` (or `images/demo.svg`) to your repo — images render inline on GitHub READMEs.
 
-### Fallback: static example
-
-```bash
-$ ./tools/sim --display=212x104 --profile=eink
-[  OK  ] init: display driver GxEPD2
-[  OK  ] load: assets (18 items)
-[ INFO ] UI: home screen ready
-[ INFO ] input: map keys -> {A:left, B:select, C:right}
-[ READY] Simulation listening on http://127.0.0.1:8080
-> press [A] [B] [C] to simulate button events
-```
-
----
 
 ## Try / clone
 
@@ -111,10 +178,3 @@ git clone https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example
 
 ---
 
-If you'd like, I can:
-
-- Add build/coverage badges and a resume link
-- Create a short contributor guide or a pinned projects section
-- Tweak tone/length for hiring vs. open-source audiences
-
-Tell me which style you prefer (compact, friendly, or technical) and I will iterate.

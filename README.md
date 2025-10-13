@@ -1,132 +1,178 @@
+```
+████████╗ █████╗ ██╗   ██╗██╗      ██████╗ ██████╗     ██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗ 
+╚══██╔══╝██╔══██╗╚██╗ ██╔╝██║     ██╔═══██╗██╔══██╗    ██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗
+   ██║   ███████║ ╚████╔╝ ██║     ██║   ██║██████╔╝    ██║  ██║███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝
+   ██║   ██╔══██║  ╚██╔╝  ██║     ██║   ██║██╔══██╗    ██║  ██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗
+   ██║   ██║  ██║   ██║   ███████╗╚██████╔╝██║  ██║    ██████╔╝██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+                                                                                                            
+█▓▒░ EMBEDDED SYSTEMS ENGINEER | HARDWARE HACKER | FIRMWARE WIZARD ░▒▓█
+```
+
 <div align="center">
 
-# 🚀 Taylor Danger
-## Embedded Systems Engineer | Hardware Hacker | UI Innovator
+```bash
+$ whoami
+taylordanger@embedded:~$ Crafting elegant firmware for the tiniest screens
 
-[![Follow on GitHub](https://img.shields.io/github/followers/taylordanger?label=Follow&style=social)](https://github.com/taylordanger)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/taylordanger)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.taylor.sheppard@gmail.com)
+$ ls -la ~/skills/
+total 42
+drwxr-xr-x  esp32        modern_cpp   e_paper_ui   real_time_systems
+-rwxr-xr-x  embedded.so  firmware.bin testing.exe  hardware_hacks.sh
+
+$ ./connect --social
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taylordanger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylordanger)
+[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lauren.taylor.sheppard@gmail.com)
 
 ![terminal header](images/terminal-header.svg)
 
-### 💫 "Crafting elegant firmware for the tiniest screens"
-
 </div>
 
-<div align="center">
+```bash
+$ cat ~/manifesto.txt
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  > Turning hardware constraints into design opportunities                    ║
+║  > Making microcontrollers feel like desktop experiences                     ║
+║  > Bridging the gap between 4KB RAM and infinite user expectations          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-**🎯 Turning hardware constraints into design opportunities**
-
-*I specialize in creating firmware and micro-UIs that deliver desktop-quality experiences on embedded devices. My work bridges the gap between hardware limitations and user expectations.*
-
-**⚡ Core Expertise:** `ESP32` `Modern C++` `e-Paper Displays` `Real-time Systems` `Hardware-UI Integration`
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylordanger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylordanger&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Embedded & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-16c60c?style=for-the-badge&logo=freertos&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-### 📋 Quick Info
-
-| 🎯 Focus | 📍 Location | 💼 Status |
-|----------|-------------|----------|
-| Embedded UI/UX | Remote/Hybrid | Open for collaboration |
-
-**Skill Levels:**
-```
-C/C++ Embedded     ████████████████████ 100%
-Hardware Integration ██████████████████ 90%
-UI/UX for Embedded   ████████████████ 80%
-Python Tooling      ██████████████ 70%
-Rust (Learning)     ████████ 40%
+$ grep -r "expertise" ~/skills/
+/home/taylor/skills/core.h:#define ESP32_WIZARD     1
+/home/taylor/skills/core.h:#define MODERN_CPP       1  
+/home/taylor/skills/core.h:#define EPAPER_NINJA     1
+/home/taylor/skills/core.h:#define REALTIME_MASTER  1
+/home/taylor/skills/core.h:#define UI_ARCHITECT     1
 ```
 
-## 🏆 Featured Projects
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+```
+╭─────────────────────[ SYSTEM STATUS ]─────────────────────╮
+│                                                          │
+│  ██ GITHUB STATS LOADING...                              │
+│  ████████████████████████████████████████████  [██████]  │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
 
-### 🐾 ESP32 Virtual Pet
-**Smart Tamagotchi-style companion**
-- Real-time pet simulation with persistent memory
-- Optimized rendering pipeline for smooth animations
-- Low-power state management
-- Interactive touch/button controls
-
-[![Repo](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/taylordanger/ESP32-Virtualpet)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=play)](https://github.com/taylordanger/ESP32-Virtualpet)
-
-</td>
-<td width="50%">
-
-### 📺 Multi e-Paper Manager
-**Advanced display orchestration system**
-- Seamless transitions between multiple e-paper screens
-- Memory-efficient graphics pipeline
-- Dynamic content scheduling
-- Hardware abstraction layer
-
-[![Repo](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
-[![Stars](https://img.shields.io/github/stars/taylordanger/GxEPD-Multiple-Epaper-Screen-Example?style=for-the-badge)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
-
-</td>
-</tr>
-</table>
-
-### 🌟 Open Source Impact
-**Contributing to the embedded ecosystem** • Bug fixes & optimizations • Documentation improvements • Community support
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylordanger&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylordanger&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
 
 </div>
 
-## 💭 Philosophy & Approach
+```bash
+$ ./run_diagnostics.sh --full-scan
 
-<div align="center">
+╔═══════════════════════[ TECH STACK ANALYSIS ]═══════════════════════╗
+║                                                                      ║
+║  ┌─[ PROGRAMMING LANGUAGES ]─────────────────────────────────────┐   ║
+║  │  C/C++      ████████████████████ 100%  [EXPERT]             │   ║
+║  │  Python     ██████████████████░░  90%  [ADVANCED]           │   ║  
+║  │  TypeScript ████████████████░░░░  80%  [PROFICIENT]         │   ║
+║  │  Rust       ████████░░░░░░░░░░░░  40%  [LEARNING]           │   ║
+║  └─────────────────────────────────────────────────────────────────┘   ║
+║                                                                      ║
+║  ┌─[ EMBEDDED & HARDWARE ]───────────────────────────────────────┐   ║
+║  │  ESP32/ESP-IDF    ████████████████████ 100%  [WIZARD]        │   ║
+║  │  FreeRTOS         ██████████████████░░  90%  [ADVANCED]      │   ║
+║  │  Arduino          ████████████████████  95%  [EXPERT]        │   ║
+║  │  e-Paper Displays ██████████████████░░  90%  [SPECIALIST]    │   ║
+║  └─────────────────────────────────────────────────────────────────┘   ║
+║                                                                      ║
+║  ┌─[ DEVELOPMENT TOOLS ]─────────────────────────────────────────┐   ║
+║  │  Git/GitHub       ████████████████████ 100%  [MASTER]        │   ║
+║  │  CMake            ████████████████░░░░  80%  [PROFICIENT]    │   ║
+║  │  CI/CD            ██████████████░░░░░░  70%  [INTERMEDIATE]  │   ║
+║  └─────────────────────────────────────────────────────────────────┘   ║
+╚══════════════════════════════════════════════════════════════════════╝
 
-| 🎨 **Design Principle** | 🔧 **Implementation** |
-|--------------------------|------------------------|
-| **Desktop-Quality UX** | UI logic runs identically on desktop simulators and target hardware |
-| **Zero-Compromise Testing** | Every component testable in isolation with automated CI/CD |
-| **Hardware-Aware Design** | Constraints become features, not limitations |
-| **Incremental Perfection** | Small, atomic changes with reproducible builds |
+$ cat /proc/taylor/status
+┌─────────────────────────────────────────────────────────────────┐
+│  STATUS: █ ONLINE     LOCATION: █ REMOTE/HYBRID                │
+│  FOCUS:  █ EMBEDDED UI/UX    AVAILABILITY: █ OPEN FOR HIRE     │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-*"The best embedded UI is one that users forget is running on a microcontroller."*
+![C](https://img.shields.io/badge/C-00ff41?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00ff41?style=flat-square&logo=cplusplus&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00ff41?style=flat-square&logo=python&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-00ff41?style=flat-square&logo=espressif&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00ff41?style=flat-square&logo=arduino&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00ff41?style=flat-square&logo=git&logoColor=black)
 
-</div>
+```bash
+$ ls -la ~/projects/featured/
+total 1337
+drwxr-xr-x 4 taylor embedded  4096 Oct 12 2025 .
+drwxr-xr-x 3 taylor embedded  4096 Oct 12 2025 ..
+-rwxr-xr-x 1 taylor embedded  2048 Oct 12 2025 esp32-virtualpet/
+-rwxr-xr-x 1 taylor embedded  1024 Oct 12 2025 multi-epaper-manager/
+-rwxr-xr-x 1 taylor embedded   512 Oct 12 2025 open-source-contrib/
+
+$ ./project_info.sh --detailed
+
+╔══════════════════════[ PROJECT SHOWCASE ]══════════════════════╗
+║                                                                 ║
+║  ┌─[ ESP32-VIRTUALPET ]────────────────────────────────────┐    ║
+║  │  > Smart Tamagotchi-style companion for ESP32           │    ║
+║  │  ✓ Real-time pet simulation with persistent memory      │    ║
+║  │  ✓ Optimized rendering pipeline (60fps on 240MHz)      │    ║
+║  │  ✓ Deep sleep power management (~10µA idle)            │    ║
+║  │  ✓ Touch/button input with debouncing                  │    ║
+║  │  ► git clone github.com/taylordanger/ESP32-Virtualpet   │    ║
+║  └─────────────────────────────────────────────────────────┘    ║
+║                                                                 ║
+║  ┌─[ MULTI-EPAPER-MANAGER ]───────────────────────────────┐    ║
+║  │  > Advanced e-paper display orchestration system       │    ║
+║  │  ✓ Seamless multi-screen transitions                   │    ║
+║  │  ✓ Memory-efficient graphics pipeline (2KB buffer)    │    ║
+║  │  ✓ Dynamic content scheduling & rotation               │    ║
+║  │  ✓ Hardware abstraction layer for any e-paper         │    ║
+║  │  ► git clone github.com/taylordanger/GxEPD-Multiple... │    ║
+║  └─────────────────────────────────────────────────────────┘    ║
+║                                                                 ║
+║  ┌─[ OPEN SOURCE CONTRIBUTIONS ]─────────────────────────┐    ║
+║  │  > Contributing to the embedded ecosystem              │    ║
+║  │  ◆ Bug fixes & performance optimizations              │    ║
+║  │  ◆ Documentation improvements & examples               │    ║
+║  │  ◆ Community support & code reviews                   │    ║
+║  └─────────────────────────────────────────────────────────┘    ║
+╚═════════════════════════════════════════════════════════════════╝
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_CODE-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/taylordanger/ESP32-Virtualpet)
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-00ff41?style=flat-square&logo=play&logoColor=black)](https://github.com/taylordanger/ESP32-Virtualpet)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+[![Stars](https://img.shields.io/github/stars/taylordanger/GxEPD-Multiple-Epaper-Screen-Example?style=flat-square&color=00ff41)](https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example)
+
+```bash
+$ cat ~/.philosophy/embedded_manifesto.txt
+
+╔═══════════════════════[ DEVELOPMENT PHILOSOPHY ]═══════════════════════╗
+║                                                                         ║
+║  "The best embedded UI is one that users forget                        ║
+║   is running on a microcontroller."                                    ║
+║                                              -- Taylor Danger, 2025    ║
+║                                                                         ║
+║  PRINCIPLES:                                                            ║
+║  ┌─────────────────────────────────────────────────────────────────┐   ║
+║  │  ▸ DESKTOP-QUALITY UX                                          │   ║
+║  │    └─ UI logic runs identically on sims and hardware          │   ║
+║  │  ▸ ZERO-COMPROMISE TESTING                                     │   ║
+║  │    └─ Every component isolated, CI/CD automated                │   ║
+║  │  ▸ HARDWARE-AWARE DESIGN                                       │   ║
+║  │    └─ Constraints become features, not limitations             │   ║
+║  │  ▸ INCREMENTAL PERFECTION                                      │   ║
+║  │    └─ Atomic changes, reproducible builds, no magic           │   ║
+║  └─────────────────────────────────────────────────────────────────┘   ║
+╚═════════════════════════════════════════════════════════════════════════╝
+
+$ echo $WORKFLOW
+"Small commits, big impact. Test everything, assume nothing."
+```
 
 ---
 

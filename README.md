@@ -121,10 +121,4 @@ git clone https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example
 - GitHub: https://github.com/taylordanger  
 - Email: lauren.taylor.sheppard@gmail.com
 
----
-
-If you'd like:
-- I can produce a tiny animated GIF version of the header (will be an external file ~200KB) or keep the SVG for crispness and privacy.
-- Tweak the header text, colors, or add a subtitle like "Firmware · UX · Tools".
-- Create a one-screen profile variant that uses the same header but removes tables for compactness.
 

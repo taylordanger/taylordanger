@@ -186,28 +186,6 @@ $ echo $WORKFLOW
 **Try the simulator:**  
 [![Interactive Demo](https://img.shields.io/badge/▶%20Interactive%20Demo-asciinema-red?style=for-the-badge&logo=terminal)](https://asciinema.org/a/XXXX) [![Download Demo](https://img.shields.io/badge/📥%20Download%20Demo-GIF-blue?style=for-the-badge&logo=github)](images/demo.gif)
 
-*Replace XXXX with your asciinema recording ID, or add `images/demo.gif` to show an animated preview.*
-
-### How to create and embed a demo
-
-1. Record an interactive session with asciinema (recommended):
-
-```bash
-# record the session interactively
-asciinema rec demo.cast --command="./tools/sim --display=212x104 --profile=eink"
-```
-
-2. Upload to asciinema (optional) or convert to GIF for embedding:
-
-```bash
-# upload (gives you a public URL you can link)
-asciinema upload demo.cast
-
-# convert to GIF locally (third-party tools exist, e.g. asciinema2gif)
-asciinema2gif demo.cast images/demo.gif
-```
-
-3. Commit `images/demo.gif` (or `images/demo.svg`) to your repo — images render inline on GitHub READMEs.
 
 
 ## Try / clone

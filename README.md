@@ -6,7 +6,7 @@
    ██║   ██║  ██║   ██║   ███████╗╚██████╔╝██║  ██║    ██████╔╝██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║
    ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                                                             
-█▓▒░ EMBEDDED SYSTEMS ENGINEER | HARDWARE HACKER | FIRMWARE WIZARD ░▒▓█
+█▓▒░ EMBEDDED SYSTEMS HERO | HARDWARE HACKER | FIRMWARE WIZARD ░▒▓█
 ```
 
 <div align="center">

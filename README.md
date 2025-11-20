@@ -177,25 +177,6 @@ $ echo $WORKFLOW
 "Small commits, big impact. Test everything, assume nothing."
 ```
 
----
-
-## 🎬 Live demo
-
-![sim demo placeholder](images/demo.svg)
-
-**Try the simulator:**  
-[![Interactive Demo](https://img.shields.io/badge/▶%20Interactive%20Demo-asciinema-red?style=for-the-badge&logo=terminal)](https://asciinema.org/a/XXXX) [![Download Demo](https://img.shields.io/badge/📥%20Download%20Demo-GIF-blue?style=for-the-badge&logo=github)](images/demo.gif)
-
-
-
-## Try / clone
-
-```bash
-git clone https://github.com/taylordanger/ESP32-Virtualpet
-git clone https://github.com/taylordanger/GxEPD-Multiple-Epaper-Screen-Example
-```
-
----
 
 ## Contact
 

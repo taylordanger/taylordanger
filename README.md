@@ -1,5 +1,5 @@
 ```
-# Taylor Danger — Embedded Systems Engineer
+# Taylor  — Embedded Systems Engineer
 
 <div align="center">
 
@@ -15,7 +15,7 @@ $ whoami
 
 ```bash
 $ cat ~/profile
- Name:     Taylor Danger
+ Name:     Taylor
  Role:     Embedded Systems Engineer / Firmware Developer
  Focus:    ESP32 • FreeRTOS • e‑paper UI • Modern C++
  Location: Remote / Hybrid

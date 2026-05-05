@@ -1,5 +1,5 @@
 ```
-# Taylor  — Embedded Systems Engineer
+# Taylor  — Software Developer for various embedded systems.
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ```bash
 $ whoami
- taylordanger@workstation:~$ Embedded systems engineer focused on ESP32, FreeRTOS,
+ taylordanger@workstation:~$ Embedded systems developer focused on ESP32, FreeRTOS,
                            and high-quality UI/UX on constrained displays.
 ```
 
